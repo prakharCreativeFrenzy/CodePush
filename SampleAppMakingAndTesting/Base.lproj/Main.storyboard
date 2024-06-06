@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="x9Q-C0-a1W">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Collection View Delete View Controller-->
+        <scene sceneID="alQ-2x-KSL">
+            <objects>
+                <viewController storyboardIdentifier="CollectionViewDeleteViewController" id="NIg-Rb-zV0" customClass="CollectionViewDeleteViewController" customModule="SampleAppMakingAndTesting" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WGF-Kt-qkC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="uko-eR-nDi">
+                                <rect key="frame" x="0.0" y="143" width="393" height="709"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="8MW-p9-Czd">
+                                    <size key="itemSize" width="128" height="128"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4O9-9m-esh">
+                                <rect key="frame" x="0.0" y="103" width="393" height="40"/>
+                                <subviews>
+                                    <searchBar contentMode="redraw" placeholder="Enter your text here" translatesAutoresizingMaskIntoConstraints="NO" id="Npb-0K-hT3">
+                                        <rect key="frame" x="0.0" y="0.0" width="393" height="40"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                        <connections>
+                                            <outlet property="delegate" destination="NIg-Rb-zV0" id="hgh-WF-2ds"/>
+                                        </connections>
+                                    </searchBar>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="40" id="Anz-iX-YNX"/>
+                                    <constraint firstAttribute="trailing" secondItem="Npb-0K-hT3" secondAttribute="trailing" id="Mjo-jj-ZOC"/>
+                                    <constraint firstAttribute="bottom" secondItem="Npb-0K-hT3" secondAttribute="bottom" id="TFv-yH-3Ap"/>
+                                    <constraint firstAttribute="height" constant="40" id="drW-Lp-bfl"/>
+                                    <constraint firstItem="Npb-0K-hT3" firstAttribute="leading" secondItem="4O9-9m-esh" secondAttribute="leading" id="hdE-zb-wc9"/>
+                                    <constraint firstItem="Npb-0K-hT3" firstAttribute="top" secondItem="4O9-9m-esh" secondAttribute="top" id="pmf-Bh-Bg7"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="qDM-At-JUq"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="4O9-9m-esh" firstAttribute="trailing" secondItem="qDM-At-JUq" secondAttribute="trailing" id="Bdh-Ik-fRv"/>
+                            <constraint firstItem="4O9-9m-esh" firstAttribute="leading" secondItem="qDM-At-JUq" secondAttribute="leading" id="D5V-tG-VSC"/>
+                            <constraint firstItem="uko-eR-nDi" firstAttribute="leading" secondItem="qDM-At-JUq" secondAttribute="leading" id="Dam-3M-k9j"/>
+                            <constraint firstAttribute="bottom" secondItem="uko-eR-nDi" secondAttribute="bottom" id="IMB-I6-nQQ"/>
+                            <constraint firstItem="uko-eR-nDi" firstAttribute="top" secondItem="4O9-9m-esh" secondAttribute="bottom" id="aMA-Ad-9zv"/>
+                            <constraint firstItem="qDM-At-JUq" firstAttribute="trailing" secondItem="uko-eR-nDi" secondAttribute="trailing" id="xLj-0S-SMR"/>
+                            <constraint firstItem="4O9-9m-esh" firstAttribute="top" secondItem="qDM-At-JUq" secondAttribute="top" id="yaW-as-rxn"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="4dh-hs-vJa"/>
+                    <connections>
+                        <outlet property="collectionView" destination="uko-eR-nDi" id="4qF-EK-IPW"/>
+                        <outlet property="searchBar" destination="Npb-0K-hT3" id="Lko-1s-bj1"/>
+                        <outlet property="viewTop" destination="4O9-9m-esh" id="vrN-bO-3rP"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qk7-Ka-fm4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="28446.564885496184" y="-35.211267605633807"/>
+        </scene>
+        <!--Movie Detail View Controller-->
+        <scene sceneID="3Jl-q1-cYD">
+            <objects>
+                <viewController storyboardIdentifier="MovieDetailViewController" id="85l-64-XpB" customClass="MovieDetailViewController" customModule="SampleAppMakingAndTesting" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Uqh-08-9ZQ">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Y6R-x5-xQ3">
+                                <rect key="frame" x="0.0" y="99" width="393" height="753"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="29Z-nq-vnh">
+                                <rect key="frame" x="0.0" y="59" width="393" height="40"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LbU-Xs-PGf">
+                                        <rect key="frame" x="10" y="5" width="30" height="30"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="EYy-lB-Thg"/>
+                                            <constraint firstAttribute="width" constant="30" id="ahk-U7-ssb"/>
+                                        </constraints>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" image="back">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="btnBackPressed:" destination="85l-64-XpB" eventType="touchUpInside" id="Ww7-SU-70N"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="LbU-Xs-PGf" firstAttribute="centerY" secondItem="29Z-nq-vnh" secondAttribute="centerY" id="4KZ-ME-alC"/>
+                                    <constraint firstAttribute="height" constant="40" id="PBG-Ni-r0f"/>
+                                    <constraint firstItem="LbU-Xs-PGf" firstAttribute="leading" secondItem="29Z-nq-vnh" secondAttribute="leading" constant="10" id="xbc-Zt-eQa"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="EBA-bM-4Tt"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="29Z-nq-vnh" firstAttribute="top" secondItem="EBA-bM-4Tt" secondAttribute="top" id="5lW-I8-z9v"/>
+                            <constraint firstItem="Y6R-x5-xQ3" firstAttribute="top" secondItem="29Z-nq-vnh" secondAttribute="bottom" id="OWn-Xa-oOf"/>
+                            <constraint firstItem="29Z-nq-vnh" firstAttribute="trailing" secondItem="EBA-bM-4Tt" secondAttribute="trailing" id="PH8-Oi-DK5"/>
+                            <constraint firstAttribute="bottom" secondItem="Y6R-x5-xQ3" secondAttribute="bottom" id="cwd-d5-bF1"/>
+                            <constraint firstItem="Y6R-x5-xQ3" firstAttribute="leading" secondItem="EBA-bM-4Tt" secondAttribute="leading" id="o35-jQ-6st"/>
+                            <constraint firstItem="29Z-nq-vnh" firstAttribute="leading" secondItem="EBA-bM-4Tt" secondAttribute="leading" id="o5J-X0-j5Z"/>
+                            <constraint firstItem="EBA-bM-4Tt" firstAttribute="trailing" secondItem="Y6R-x5-xQ3" secondAttribute="trailing" id="ub7-eQ-c03"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="btnBackOutlet" destination="LbU-Xs-PGf" id="8qa-wG-eGp"/>
+                        <outlet property="viewTop" destination="29Z-nq-vnh" id="qeW-fq-YdH"/>
+                        <outlet property="webView" destination="Y6R-x5-xQ3" id="t4q-Mu-aCw"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kOZ-HF-1uo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="29667.938931297707" y="-35.211267605633807"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="98a-l6-MG4">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="x9Q-C0-a1W" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="WYY-sQ-5K9">
+                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="NIg-Rb-zV0" kind="relationship" relationship="rootViewController" id="e8r-AG-7AO"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zVr-y6-PKl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="27519.847328244272" y="-35.211267605633807"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="back" width="9.9250001907348633" height="17.35099983215332"/>
+    </resources>
+</document>

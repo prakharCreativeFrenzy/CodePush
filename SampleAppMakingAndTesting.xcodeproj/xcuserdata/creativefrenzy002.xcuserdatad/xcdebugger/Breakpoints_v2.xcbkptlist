@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF38F716-3503-4E17-86B0-679C052C03C9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "takeScreenshotAndSave()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62 - 95623c089106f1d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.takeScreenshot() -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62 - 5093d5ad04e7100f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62 - 5093d5ad04e7100f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62 - 5093d5ad04e71068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "3AA81F5F-7373-4782-9CBD-B231FF726C62 - 5093d5ad04e7102e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8A378AD-62BB-4F97-8FA3-1AED21B7F55D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB9DC934-AAD3-4949-8E32-6DB4C17EC9F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9E91B4-75B2-45C0-9427-0928ECBA8B74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A9E91B4-75B2-45C0-9427-0928ECBA8B74 - 6cece2beb320a463"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "1A9E91B4-75B2-45C0-9427-0928ECBA8B74 - 6cece2beb320a402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "1A9E91B4-75B2-45C0-9427-0928ECBA8B74 - 6cece2beb320a402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "222E7EDD-86EB-4AD2-AC4A-2856596A6C7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "222E7EDD-86EB-4AD2-AC4A-2856596A6C7D - 6cece2beb320a586"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "222E7EDD-86EB-4AD2-AC4A-2856596A6C7D - 6cece2beb320a5a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "222E7EDD-86EB-4AD2-AC4A-2856596A6C7D - 6cece2beb320a5a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C10346A1-B5F1-4493-89D9-13E8D084874C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "takeScreenshotAndSave()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C10346A1-B5F1-4493-89D9-13E8D084874C - 2b859f181ff5f335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "C10346A1-B5F1-4493-89D9-13E8D084874C - 2b859f181ff5f335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "C10346A1-B5F1-4493-89D9-13E8D084874C - 2b859f181ff5f352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "C10346A1-B5F1-4493-89D9-13E8D084874C - 2b859f181ff5f352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C81E60A-253A-4C10-9A61-9CC902CE4D98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "takeScreenshotAndSave()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C81E60A-253A-4C10-9A61-9CC902CE4D98 - 2b859f181ff5f3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "1C81E60A-253A-4C10-9A61-9CC902CE4D98 - 2b859f181ff5f3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+               <Location
+                  uuid = "1C81E60A-253A-4C10-9A61-9CC902CE4D98 - 2b859f181ff5f3de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "1C81E60A-253A-4C10-9A61-9CC902CE4D98 - 2b859f181ff5f3de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACF7269F-6914-4AA3-BCA5-C692EAEFB3BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "takeScreenshotAndSave()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACF7269F-6914-4AA3-BCA5-C692EAEFB3BC - 2b859f181ff5f352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "ACF7269F-6914-4AA3-BCA5-C692EAEFB3BC - 2b859f181ff5f352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "ACF7269F-6914-4AA3-BCA5-C692EAEFB3BC - 2b859f181ff5f373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "ACF7269F-6914-4AA3-BCA5-C692EAEFB3BC - 2b859f181ff5f373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.takeScreenshotAndSave() -&gt; Swift.Optional&lt;__C.PHObjectPlaceholder&gt;"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "D5159F56-E15E-4A1A-9A48-B1D4025D9D5A - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3 - 1c56d7b194ebb0cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3 - 42b4818f9dd39bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3 - 1c56d7b194ebb0cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3 - 42b4818f9dd399b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "4FD18848-F1F4-4C84-91E1-AE638A3DBBD3 - 1c56d7b194ebb0cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06B9E1C6-29DE-4443-A663-ECFEFD911EC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "550BA9A9-48F6-4F06-BAA1-23C4D061034C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "550BA9A9-48F6-4F06-BAA1-23C4D061034C - a344cabdb876d4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "550BA9A9-48F6-4F06-BAA1-23C4D061034C - a344cabdb876d4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "550BA9A9-48F6-4F06-BAA1-23C4D061034C - a344cabdb876d4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "550BA9A9-48F6-4F06-BAA1-23C4D061034C - a344cabdb876d4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12D95F09-8646-4C00-AFD9-D67A1F555FDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CEBF4C8-669D-41EB-913D-9A310686699B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B89B398C-661D-4A3A-BDA8-2FA8BE45C157"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchPHAsset(using:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034 - a344cabdb876d43d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034 - 1c56d7b194ebb08d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034 - a344cabdb876d43d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034 - 1c56d7b194ebb16c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "9CEF7C24-D073-4846-B2E1-A14C409B8034 - 1c56d7b194ebb16c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in SampleAppMakingAndTesting.ViewController.fetchPHAsset(using: __C.PHObjectPlaceholder) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBFC6E54-B2D7-4D0E-9D07-A17946E0B418"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "screenRecorder(_:didStopRecordingWithError:previewViewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FBFC6E54-B2D7-4D0E-9D07-A17946E0B418 - 13322379424f4eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+               <Location
+                  uuid = "FBFC6E54-B2D7-4D0E-9D07-A17946E0B418 - 13322379424f4eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F2D02D-083C-48B2-99C4-FAC34AB733DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "screenRecorder(_:didStopRecordingWithError:previewViewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67F2D02D-083C-48B2-99C4-FAC34AB733DF - 13322379424f4d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "67F2D02D-083C-48B2-99C4-FAC34AB733DF - 13322379424f4d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E34241E-46D4-42EA-9B4A-4C887D29054F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "screenRecorder(_:didStopRecordingWithError:previewViewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E34241E-46D4-42EA-9B4A-4C887D29054F - 13322379424f4dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "5E34241E-46D4-42EA-9B4A-4C887D29054F - 13322379424f4dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.screenRecorder(_: __C.RPScreenRecorder, didStopRecordingWithError: Swift.Error, previewViewController: Swift.Optional&lt;__C.RPPreviewViewController&gt;) -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8117C367-A584-47F8-9BFC-3528146F90F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "startRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8117C367-A584-47F8-9BFC-3528146F90F2 - a948224adc15bfba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "8117C367-A584-47F8-9BFC-3528146F90F2 - a948224adc15bfdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "8117C367-A584-47F8-9BFC-3528146F90F2 - a948224adc15bfdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "8117C367-A584-47F8-9BFC-3528146F90F2 - a948224adc15bfdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "8117C367-A584-47F8-9BFC-3528146F90F2 - a948224adc15bfdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "startRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149 - a948224adc15b819"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149 - a948224adc15b83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149 - a948224adc15b83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149 - a948224adc15b83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "BE9230CF-78EC-45E5-922C-C7465F07B149 - a948224adc15b83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.startRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC6038EC-9EFD-476E-8B15-96C5059949CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C594805-798C-4204-B7B9-FF07C6FBB5A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "startRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99743BC4-BB36-4E5B-B9B7-752BD54B148F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99743BC4-BB36-4E5B-B9B7-752BD54B148F - 899f428e3a544eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "99743BC4-BB36-4E5B-B9B7-752BD54B148F - eb4007e308854ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "99743BC4-BB36-4E5B-B9B7-752BD54B148F - 899f428e3a544eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "99743BC4-BB36-4E5B-B9B7-752BD54B148F - 899f428e3a544eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A54B55E6-CBDA-44C0-8896-D8C399233FA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92E2B648-F219-4FAF-B74D-A5A1D0DAB5E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3859DCF-FDCA-4C8B-A210-6ECC9AA8D0E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3859DCF-FDCA-4C8B-A210-6ECC9AA8D0E9 - eb4007e308854df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "D3859DCF-FDCA-4C8B-A210-6ECC9AA8D0E9 - eb4007e308854df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "D3859DCF-FDCA-4C8B-A210-6ECC9AA8D0E9 - eb4007e308854df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5C6910F-11F0-40E2-BBE3-201473CFA5D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5C6910F-11F0-40E2-BBE3-201473CFA5D8 - eb4007e308854c3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "E5C6910F-11F0-40E2-BBE3-201473CFA5D8 - eb4007e308854c3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "956">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E657A5D8-1D47-41DE-8956-43A096128830"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF4B1041-3283-4ABC-AC25-0E639158005C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF4B1041-3283-4ABC-AC25-0E639158005C - 899f428e3a544ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EF4B1041-3283-4ABC-AC25-0E639158005C - 899f428e3a544ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "EF4B1041-3283-4ABC-AC25-0E639158005C - 899f428e3a544ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAE4E048-1AE1-49B7-AB40-D79DD4948812"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DAE4E048-1AE1-49B7-AB40-D79DD4948812 - 899f428e3a544e97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "DAE4E048-1AE1-49B7-AB40-D79DD4948812 - eb4007e308854d33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.RPPreviewViewController&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "DAE4E048-1AE1-49B7-AB40-D79DD4948812 - 899f428e3a544e97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAppMakingAndTesting.RecoedScreenViewController.stopRecording() -&gt; ()"
+                  moduleName = "SampleAppMakingAndTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/creativefrenzy002/Desktop/SampleAppMakingAndTesting/SampleAppMakingAndTesting/RecoedScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
